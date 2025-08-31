@@ -1,16 +1,30 @@
-## Hi there 👋
+# FRAMP - Your TurboCharged Finance Buddy
 
-<!--
-**FrampFi/frampfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![FRAMP Logo](/public/framp_cover.jpg)
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FRAMP (short for Ramp Finance) is a Solana-based platform that simplifies how users interact with crypto and fiat. We offer seamless on/off-ramping services that bridge the gap between digital assets and real-world needs.
+
+With FRAMP, users can instantly convert crypto to cash (and vice versa), pay utility bills directly from their wallet, and automatically save a portion of every transaction. Our mission is to build the financial bridge between Web3 and everyday life — prioritizing speed, accessibility, and practical utility.
+
+### Key Features
+
+- **Simplified On/Off Ramping**: Easily convert between crypto and fiat currencies
+- **Direct Bill Payments**: Pay electricity, data, and internet bills directly from your wallet
+- **Automated Savings**: After each transaction, a percentage is automatically saved from your remaining balance
+- **Solana-Powered**: Built on the Solana blockchain for fast, low-cost transactions
+
+## Our Mission
+
+FRAMP is committed to supercharging traditional finance with Solana, making ramping technology seamless, and promoting crypto adoption worldwide.
+
+## Contact
+
+- Website: [https://framp.xyz](https://framp.xyz)
+- Twitter: [@frampHQ](https://twitter.com/frampHQ)
+- Telegram: [FrampHQ](https://t.me/FrampHQ)
+
+---
+
+FRAMP - Making digital finance accessible to everyone 
