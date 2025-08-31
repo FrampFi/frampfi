@@ -1,6 +1,6 @@
 # FRAMP - Your TurboCharged Finance Buddy
 
-![FRAMP Logo](/public/framp_cover.jpg)
+![FRAMP Logo]([/public/framp_cover.jpg](https://github.com/FrampFi/framp-backend/blob/main/public/framp_cover.jpg))
 
 ## Overview
 
