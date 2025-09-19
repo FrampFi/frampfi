@@ -22,7 +22,7 @@ FRAMP is committed to supercharging traditional finance with Solana, making ramp
 ## Contact
 
 - Website: [https://framp.xyz](https://framp.xyz)
-- Twitter: [@frampHQ](https://twitter.com/frampHQ)
+- Twitter: [@frampFi](https://twitter.com/frampFi)
 - Telegram: [FrampHQ](https://t.me/FrampHQ)
 
 ---
